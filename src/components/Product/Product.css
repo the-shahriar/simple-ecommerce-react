@@ -1,0 +1,26 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid gray;
+  margin: 10px 5px;
+  padding-bottom: 10px;
+}
+
+.product-name {
+  color: blue;
+  font-weight: 500;
+}
+
+.purchase-btn {
+  background-color: goldenrod;
+  width: 150px;
+  height: 25px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 17px;
+}
+
+.icon-color {
+  color: goldenrod;
+}

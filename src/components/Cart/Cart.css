@@ -1,0 +1,11 @@
+.cart-heading {
+  text-align: center;
+}
+.cart p {
+  margin-left: 10px;
+}
+.cart h3 {
+  margin-left: 10px;
+  color: red;
+  font-weight: 700;
+}
